@@ -1,4 +1,10 @@
 
+#botao-flutuante{
+    position: fixed;
+    bottom: 45px;
+    right:  108px;
+}
+
 footer {
     position: static;
     bottom: 0px;
